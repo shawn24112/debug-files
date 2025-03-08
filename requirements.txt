@@ -1,0 +1,1 @@
+pandas>=1.0\nnumpy>=1.0\nscikit-learn>=1.0\ntensorflow>=2.0\njupyter>=1.0
